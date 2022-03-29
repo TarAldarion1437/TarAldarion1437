@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Daniel Arias</h1>
 <h3 align="center">developer de Cali Colombia</h3>
 
-- 🌱 I’m currently learning **GatsbyJS**
+- 🌱 Ahora aprendiendo **GatsbyJS**
 
 - 👨‍💻 mira mis proyectos en: [https://sites.google.com/view/ariasdaniel](https://sites.google.com/view/ariasdaniel)
 
